@@ -108,7 +108,7 @@ mvn exec:java -Dexec.mainClass="top.guoziyang.mydb.backend.Launcher" -Dexec.args
 
 ② 后面的指令通过使用配置文件的方式，设置启动参数
 
-![1675056157543](README.assets/1675056157543.png)
+![1675056688928](README.assets/1675056688928.png)
 
 第一次执行时，将 open 改为 create，后续直接执行 open 即可
 
